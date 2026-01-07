@@ -1,0 +1,1 @@
+#Use the command docker context use rancher-desktop to start rancher desktop and then proceed further
